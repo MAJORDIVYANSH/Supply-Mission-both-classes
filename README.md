@@ -1,1 +1,1 @@
-# Supply-Mission-both-classes
+# SupplyMission
